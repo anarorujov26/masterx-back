@@ -6,7 +6,7 @@ dotenv.config();
 const pool = mysql.createPool({
   host: 'localhost',
   user: 'root',
-  password: '',
+  password: 'Anar29092006',
   database: 'craftnet',
   waitForConnections: true,
   connectionLimit: 10,
